@@ -1,0 +1,1 @@
+export const ImageApi = "http://192.168.51.147:8000"
